@@ -1,0 +1,108 @@
+# fahriyemsi.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
+        <title>Flower</title>
+
+    </head>
+    
+    <body style="background-image: url('kırmızı2.jpg'); height:500px;background-size: cover; background-repeat: no-repeat; background-attachment: fixed; margin: 0;">
+        
+        <h1 style="font-size: 130%; font-style: oblique; font-family: 'Times New Roman'; margin-left:10px">Fahriye'nin Bahçesi</h1>
+        <hr style="border: 1px solid black;">
+        <a href="https://x.com/groinwillsaveus?s=21" style="color: darkgreen;margin-left: 20px; font-family: Arial; text-decoration: none;">İletişim</a>
+        <a href="https://pin.it/3emxaB319" style="color: darkgreen;margin-left: 20px; font-family: Arial; text-decoration: none;">Pinterest</a>
+        <a href="https://listography.com/0660522654" style="color: darkgreen;margin-left: 20px; font-family: Arial; text-decoration: none;">Listography</a>
+
+
+        <div style="display: flex; align-items: center; gap: 450px;">
+        <h2 style="font-size: 400%; font-family: monospace; margin-left: 70px;">Fahriye <br> in a nutshell</h2>
+        <p style="text-align: right; margin-rightt: 40px; font-family: Arial, Helvetica, sans-serif;">Bu benim ikinci ismim. Diğerini çok uzun süre kullandım. Belki bir 19 sene kadar.<br> Ama sonra, Fahriye'nin bana daha çok yakıştığına karar verdim. Hiç değilse kayıp<br>  bir şiirde kullanılabilecek kadar nostaljik. İsimlerin karakter belirtmesini seviyorum.<br> Sanki benden önce ismim var olmuş gibi. Bu hoş.</p>
+        </div>
+        <img src="fotograf.jpeg" style="display: block; margin: 20px auto; width:1200px; height:auto;">
+        <br> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h2 style="font-size: 200%; margin-left: 70px; font-family: Arial, Helvetica, sans-serif;">Neden buradayız? Selam Cicim.</h2>
+        
+
+
+        <p id="ilk paragraf" style="margin-left: 70px; font-family: Arial, Helvetica, sans-serif;"></p>
+
+        <p  style="margin-left: 70px; font-family: Arial, Helvetica, sans-serif;">Çok küçük bir fragman hazırlamak istedim kendi hayatıma dair. Sanal alemde<br> anonimliğin elden geldiğince korunması taraftarıyım, bu sebeple örtük bir anlatım<br> düzenledim size. Yolunuza iliştirdiğim kurabiyelerden(linkler) hoşunuza gideni <br>cebinize atmayı unutmayın.</p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 180px;">
+    
+            <p style="flex: 1; text-align: left; margin-left: 100px; ">Kendime en çok benzettiğim resimlerden.<br> Sıfır Noktasındaki Kadın kitabındaki<br> Firdevs'in ağlamaktan içi çıktığı bir<br> gece çizdiğine inanıyorum. Farsça değil,<br> arapça kelimelerden oluşuyor.</p> 
+            <img src="arapca.jpeg" style="display: block; margin: 0 auto; width:300px; height:auto; border: 3px solid black; border-radius: 65%;">
+            <p style="flex: 1; text-align: left; margin-right: 100px; ">Kelime, "قدرة". Güç veya yetenek anlamına gelir. Son harf "Taa Marbutah" (ة), "Haa" (ه) ile aynı şekilde yazılmıştır. Ve bu bazı "Allah" kalimalarında bu şekilde yazılır.</p>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+        <h2 style="text-align: center; font-family: Arial, Helvetica, sans-serif;">Hayatımın bazı düğümleri</h2>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 5px;">
+            <div style="display: flex; flex-direction: column; gap: 0px;">
+
+                <img src="fotograf1.jpeg" style="width: 129px; height: auto;">
+                <img src="fotograf2.jpeg" style="width: 129px; height: auto;">
+                <img src="fotograf6.jpeg" style="width: 129px; height: auto;">
+                <img src="fotograf5.jpeg" style="width: 129px; height: auto;">
+            </div>
+
+            <video width="900" height="auto"controls>
+            <source src="video.mp4" type="video/mp4"  >
+            </video>
+
+            <div style="display: flex; flex-direction: column; gap: 0px;">
+
+                <img src="fotograf3.jpeg" style="width: 127px; height: auto;">
+                <img src="fotograf4.jpeg" style="width: 127px; height: auto; ">
+                <img src="fotograf7.jpeg" style="width: 127px; height: auto;">
+                <img src="fotograf8.jpeg" style="width: 127px; height: auto;">
+            </div>
+
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+
+        <script>
+            document.getElementById("ilk paragraf").innerHTML="Tuhaf bir karşılaşma oldu, değil mi? Beni tanıyorsunuz, hiç değilse uzun zamandır <br>birbirimizin adını biliyoruz. Küçük bir site tasarlamak istedim, fakat işin kodlama<br> kısmı bir tarafa sayfanın dizaynı gerçekten de hüner isteyen bir işmiş. Pinterest'in<br> yedinci katmanına indim. Ancak yine de, öğrendiğim diğer iki dile kıyasla <br>uğraşması keyifli. Bir şeyler üretmeyi hep sevdim. Pek tabii, siz bu kısmı da<br> biliyorsunuz."
+
+        </script>
+    </body>
+</html>
